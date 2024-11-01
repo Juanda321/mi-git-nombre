@@ -1,1 +1,2 @@
-este es un cambio en la rama main
+este es mi primer repositorio
+cambio en la rama conflicto
